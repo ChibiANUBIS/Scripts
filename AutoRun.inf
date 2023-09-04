@@ -1,0 +1,4 @@
+[AutoRun]
+OPEN="AutoRun.exe"
+ICON="AutoRun.exe,0"
+LABEL="Disc"
